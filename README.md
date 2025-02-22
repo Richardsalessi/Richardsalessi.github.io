@@ -77,6 +77,7 @@ Null: Para representar la ausencia de valor.
 Undefined: Cuando una variable aún no tiene un valor asignado.
 BigInt: Para números muy grandes.
 Symbol: Para crear identificadores únicos.
+
 9️⃣ ¿Cómo funcionan las estructuras de control de flujo en JavaScript?
 Las estructuras de control permiten que el código tome decisiones o repita acciones según ciertas condiciones.
 
